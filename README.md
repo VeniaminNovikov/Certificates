@@ -18,8 +18,6 @@
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20compdata%202013.pdf">Computing for Data Analysis - Johns Hopkins University - Grade Achieved: 97.0% with Distinction</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20calc1%202013.pdf">Calculus One - The Ohio State University - Grade Achieved: 99.8% with Distinction</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20sequence%202013.pdf">Calculus Two: Sequences and Series - The Ohio State University - Grade Achieved: 87.0%</a><br>
-<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20money%202014.pdf">Economics of Money and Banking, Part One - Columbia University - Grade Achieved: 87.5%</a><br>
-<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20money2%202013.pdf">Economics of Money and Banking, Part Two - Columbia University - Grade Achieved: 100.0%</a><br>
 
 ## Computational Finance
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20introfinance%202013.pdf">Introduction to Finance - University of Michigan - Grade Achieved: 100.0%</a><br>
@@ -27,6 +25,8 @@
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20fe2%202014.pdf">Financial Engineering and Risk Management Part II - Columbia University - Grade Achieved: 100.0%</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20financialmarkets%202014.pdf">Финансовые рынки и институты (Financial Markets and Institutions) - Higher School of Economics - Grade Achieved: 93.1% with Distinction</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20finmarkets%202014.pdf">Financial Markets - Yale University - Grade Achieved: 82.8%</a><br>
+<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20money%202014.pdf">Economics of Money and Banking, Part One - Columbia University - Grade Achieved: 87.5%</a><br>
+<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20money2%202013.pdf">Economics of Money and Banking, Part Two - Columbia University - Grade Achieved: 100.0%</a><br>
 
 ## Project Management and Business Administration
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20growtogreatness%202013.pdf">Grow to Greatness: Smart Growth for Private Businesses, Part I - University of Virginia - Grade Achieved: 86.7%</a><br>
