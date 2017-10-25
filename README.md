@@ -15,7 +15,7 @@
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20biostats%202013.pdf">Mathematical Biostatistics Boot Camp 1 - Johns Hopkins University - Grade Achieved: 100.0% with Distinction</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20biostats2%202013.pdf">Mathematical Biostatistics Boot Camp 2 - Johns Hopkins University - Grade Achieved: 88.1%</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20introstats%202013.pdf">Statistics: Making Sense of Data - University of Toronto - Grade Achieved: 97.0%</a><br>
-<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20compdata%202013.pdf"></a>Computing for Data Analysis - Johns Hopkins University - Grade Achieved: 97.0% with Distinction<br>
+<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20compdata%202013.pdf">Computing for Data Analysis - Johns Hopkins University - Grade Achieved: 97.0% with Distinction</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20calc1%202013.pdf">Calculus One - The Ohio State University - Grade Achieved: 99.8% with Distinction</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20sequence%202013.pdf">Calculus Two: Sequences and Series - The Ohio State University - Grade Achieved: 87.0%</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20money%202014.pdf">Economics of Money and Banking, Part One - Columbia University - Grade Achieved: 87.5%</a><br>
