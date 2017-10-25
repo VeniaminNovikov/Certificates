@@ -1,17 +1,14 @@
 # Certificates
 # Online courses and classes
-## 2017
+## Computer Science
 
-## 2016
+## Math and Statistics
+<a href="">Introduction to Mathematical Thinking - Stanford University - with Distinction</a><br>
 
-## 2015
+## Computational Finance
+<a href="">Introduction to Finance - University of Michigan - Grade Achieved: 100.0%</a><br>
 
-## 2014
-
-## 2013
-<a href="">Introduction to Finance - University of Michigan - Grade Achieved: 100.0%</a>
-<a href="">Introduction to Mathematical Thinking - Stanford University - with Distinction</a>
+## Project Management and Administration
 
 
-## 2012
-<a href=""></a>
+<a href=""></a><br>
