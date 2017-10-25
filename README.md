@@ -1,5 +1,4 @@
 # Certificates
-# Online courses and classes
 ## Computer Science
 <a href="https://verify.skilljar.com/c/vstfvdttm2nc">ESS 100 – Introduction to Big Data - MapR Academy Essentials</a><br>
 <a href="http://verify.skilljar.com/c/mexn9sbm88pb">ESS 101 – Apache Hadoop Essentials - MapR Academy Essentials</a><br>
