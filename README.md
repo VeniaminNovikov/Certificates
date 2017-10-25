@@ -2,13 +2,14 @@
 # Online courses and classes
 ## Computer Science
 <a href="https://verify.skilljar.com/c/vstfvdttm2nc">ESS 100 – Introduction to Big Data - MapR Academy Essentials</a><br>
-<a href=""></a><br>
-<a href=""></a><br>
-<a href=""></a><br>
-<a href=""></a><br>
+<a href="http://verify.skilljar.com/c/mexn9sbm88pb">ESS 101 – Apache Hadoop Essentials - MapR Academy Essentials</a><br>
+<a href="http://verify.skilljar.com/c/vsmzdbez96f7">DEV 301 - Developing Hadoop Applications - MapR Academy Essentials</a><br>
+<a href="http://verify.skilljar.com/c/i4nswxxt27yh">DEV 360 - Introduction to Apache Spark - MapR Academy Essentials</a><br>
+<a href="http://verify.skilljar.com/c/2w4p7jgnj336">DEV 361 - Build and Monitor Apache Spark Applications - MapR Academy Essentials</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20modelthinking%202013.pdf">Model Thinking - University of Michigan - Grade Achieved: 95.7%</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20webapplications%202014.pdf">Web Application Architectures - University of New Mexico - Grade Achieved: 90.8% with Distinction</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20cplusplus4c%202013.pdf">C++ For C Programmers - University of California, Santa Cruz - Grade Achieved: 77.9%</a><br>
+<a href=""></a><br>
 
 ## Math and Statistics
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20maththink%202012.pdf">Introduction to Mathematical Thinking - Stanford University - with Distinction</a><br>
