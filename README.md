@@ -1,7 +1,7 @@
 # 2012+ Certificates
 ## Recent Trainings and Events
-<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Trainings/Certificate_VENIAMIN%20NOVIKOV_%20MICROSERVICES%20FOR%20JAVA%20DEVELOPERS.pdf">Microservices for Java Developers</a>
-<a href="https://aws.amazon.com/ru/events-ruscis/devday-kiev/">AWS DevDay</a>
+<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Trainings/Certificate_VENIAMIN%20NOVIKOV_%20MICROSERVICES%20FOR%20JAVA%20DEVELOPERS.pdf">Microservices for Java Developers</a><br>
+<a href="https://aws.amazon.com/ru/events-ruscis/devday-kiev/">AWS DevDay</a><br>
 <a href=""></a><br>
 
 ## Computer Science
