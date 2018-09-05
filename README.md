@@ -30,8 +30,8 @@
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20introfinance%202013.pdf">Introduction to Finance - University of Michigan</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20fe%202013.pdf">Financial Engineering and Risk Management - Columbia University</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20fe2%202014.pdf">Financial Engineering and Risk Management Part II - Columbia University</a><br>
-<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20financialmarkets%202014.pdf">Финансовые рынки и институты (Financial Markets and Institutions) - Higher School of Economics</a><br>
-<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20finmarkets%202014.pdf">Financial Markets - Yale University</a><br>
+<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20finmarkets%202014.pdf">Финансовые рынки и институты (Financial Markets and Institutions) - Higher School of Economics</a><br>
+<a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20financialmarkets%202014.pdf">Financial Markets - Yale University</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20money%202014.pdf">Economics of Money and Banking, Part One - Columbia University</a><br>
 <a href="https://github.com/VeniaminNovikov/Certificates/blob/master/Coursera/Coursera%20money2%202013.pdf">Economics of Money and Banking, Part Two - Columbia University</a><br>
 
