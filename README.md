@@ -1,4 +1,4 @@
-# 2012+ Certificates
+# Some of 2012+ Certificates
 ## Recent Trainings and Events
 <a href="https://university.mongodb.com/course_completion/36a536fe-dd32-4002-8bcd-d01db2e1/printable">M101J: MongoDB for Java Developers</a><br>
 <a href="https://gradle.org/training/advanced-gradle-jvm/">Advanced Gradle Fundamentals for Java/JVM</a><br>
